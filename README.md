@@ -12,11 +12,14 @@ Create your professional story with ease using this Resume Builder! Crafted with
  * Responsive Design: Ensure your resume looks great on any device.
 
 ## Demo
-![1](https://github.com/veeraj-k/Resume-builder-Coding-Raja/assets/73791070/2e89aed1-4071-4a0a-9478-ac29b54ec363)
-![2](https://github.com/veeraj-k/Resume-builder-Coding-Raja/assets/73791070/213ac1b7-d24f-4c2a-bb33-bb067ec1a823)
-![3](https://github.com/veeraj-k/Resume-builder-Coding-Raja/assets/73791070/2ee42e2c-61ab-4046-99ac-93dd8829e666)
+
+![1](https://github.com/veeraj-k/Resume-builder-Coding-Raja/assets/73791070/f80dcb5d-6740-4d41-8527-2a1d441a7bb4)
+![2](https://github.com/veeraj-k/Resume-builder-Coding-Raja/assets/73791070/88c6697e-cfc3-4f84-9ad4-4778005714d0)
+![3](https://github.com/veeraj-k/Resume-builder-Coding-Raja/assets/73791070/5f7eb54e-9b0b-450f-8b8a-bcd7d42d28e8)
 
 
 
-https://github.com/veeraj-k/Resume-builder-Coding-Raja/assets/73791070/1ec21557-03b0-4cd0-ae8a-d611feaf8b99
+https://github.com/veeraj-k/Resume-builder-Coding-Raja/assets/73791070/b0767d5f-73ee-424f-9c79-62ed2bdd0821
+
+
 
